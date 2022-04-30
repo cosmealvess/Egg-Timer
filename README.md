@@ -6,7 +6,7 @@ Application developed during my studies for the IOS Development course.
 Skills learned and applied:
 
 - Control Flow
-- Conditionals - IF / ELSE IF / ELSE 
+- Conditionals - IF / ELSE 
 - Switch Statements 
 - Swift Dictionaries 
 - Swift Optionals 
