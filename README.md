@@ -3,7 +3,7 @@
 
 
 Application developed during my studies for the IOS Development course.
-Skills learned and applied:
+Skills learned and put into practice:
 
 - Control Flow
 - Conditionals - IF / ELSE 
